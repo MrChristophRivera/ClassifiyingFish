@@ -1,0 +1,6 @@
+Source:
+http://stackoverflow.com/questions/23119413/how-to-install-python-opencv-through-conda
+
+Assuming you have installed Anaconda, run the Anaconda Prompt and run the statement below:
+
+conda install -c https://conda.binstar.org/menpo opencv
